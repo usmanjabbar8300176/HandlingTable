@@ -11,8 +11,8 @@ describe('Handling table in cypress', () => {
   it('html table', () => {
     table.hadlingTable()
 
-
   })
+  
 
 
 });
